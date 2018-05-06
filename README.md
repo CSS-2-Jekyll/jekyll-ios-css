@@ -1,4 +1,4 @@
-# [Jekyll iOS CSS](https://jekyll-ios-css.jpasholk.com)
+# [Jekyll iOS CSS](https://jekyll-ios-css.css2jekyll.com)
 
 Based on [iOS-7-CSS](https://github.com/hbang/iOS-7-CSS) by [kirb](https://github.com/kirb), who is a gentleman and a scholar.
 
